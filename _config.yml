@@ -2,3 +2,12 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
+title: [Business Intelligence and Automation Specialist]
+description: [HI, I am Ashwani. I bring 15+ years of expertise in data handling, processing, and analysis, specializing in Microsoft Power Platform – Power BI, Power Apps, Power Automate, and SharePoint Online. 
+
+I helped businesses in Telecom, Logistics, Retail, and Finance to transform raw data into actionable insights and scalable apps.
+
+From complex datasets to clear, interactive dashboards, I deliver end-to-end BI and automation solutions that improve decision-making and drive growth.
+
+Get in touch and let's talk about how we can start working together.
+]
