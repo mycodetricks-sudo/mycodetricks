@@ -119,4 +119,4 @@ Employees manually opened PDF documents, extracted information, renamed files, a
 
 ### 📺 Demo
 
-[Watch Dashboard Walkthrough](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch Dashboard Walkthrough](https://youtu.be/xYpaMtdytAg)
