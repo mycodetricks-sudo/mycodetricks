@@ -78,7 +78,7 @@ Developed an executive dashboard featuring:
 
 ### 📺 Watch Demo
 
-[▶ Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[▶ Watch on YouTube](https://youtu.be/7-kdOuMUP1M)
 
 ---
 
