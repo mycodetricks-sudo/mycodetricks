@@ -52,7 +52,7 @@ Designed an end-to-end automation workflow that:
 ## 📊 PRC Cost Analysis Dashboard
 
 <p align="center">
-  <img src="assets/images/PRC.png" width="800">
+  <img src="assets/PRC.png" width="800">
 </p>
 
 ### Business Challenge
