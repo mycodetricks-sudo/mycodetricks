@@ -53,7 +53,7 @@ Designed an end-to-end automation workflow that:
 
 <p align="center">
   <img src="assets/images/PRC.png" width="800">
-</p>
+</p
 
 ### Business Challenge
 
