@@ -107,7 +107,7 @@ Employees manually opened PDF documents, extracted information, renamed files, a
 ## 📈 Executive Revenue Dashboard
 
 <p align="center">
-  <img src="assets/images/revenue-dashboard.png" width="800">
+  <img src="assets/PBI.jpeg" width="800">
 </p>
 
 ### Highlights
