@@ -2,11 +2,10 @@
 
 [Home](index.md) | [Projects](projects.md) | [Contact](contact.md)
 
-# About Me
-
 ## Helping Businesses Work Smarter Through Intelligent Automation
 
-Welcome! I'm **Ashwani Goel**, Founder of **MyCodeTricks**, a business automation consultancy focused on helping organizations streamline operations, reduce manual effort, and improve decision-making through intelligent automation and business analytics.
+Welcome! 
+I'm **Ashwani Goel**, Founder of **My Code Tricks**, a business automation consultancy focused on helping organizations streamline operations, **reduce manual effort**, and improve decision-making through intelligent automation and business analytics.
 
 With more than **15 years of professional experience**, I have worked with businesses across multiple industries to transform repetitive, time-consuming processes into efficient, scalable workflows that save valuable time and improve operational efficiency.
 
@@ -102,16 +101,6 @@ Success is measured by real business outcomes:
 
 ---
 
-# Beyond Technology
-
-Automation is not just about software.
-
-It's about enabling people to focus on work that creates value while allowing technology to handle repetitive tasks efficiently and consistently.
-
-Every solution I build is intended to improve the way businesses operate—not simply automate existing processes.
-
----
-
 # Let's Build Something Better
 
 Whether you're looking to automate repetitive workflows, improve reporting, or gain better visibility into your business operations, I'd be happy to discuss how we can work together.
@@ -122,16 +111,16 @@ Whether you're looking to automate repetitive workflows, improve reporting, or g
 
 **Ashwani Goel**
 
-Founder | MyCodeTricks
+Founder | My Code Tricks
 
 📧 **Email**
 [mycodetricks@gmail.com](mailto:mycodetricks@gmail.com)
 
 🌐 **Website**
-https://www.mycodetricks.com
+[My code tricks](https://mycodetricks-sudo.github.io/mycodetricks/)
 
 💼 **LinkedIn**
-*Coming Soon*
+[Linkedin Profile](https://www.linkedin.com/in/ashwani-goel-6a4487209/)
 
 ---
 
