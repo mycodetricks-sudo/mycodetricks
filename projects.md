@@ -118,5 +118,6 @@ Employees manually opened PDF documents, extracted information, renamed files, a
 * Interactive Filters
 
 ### 📺 Demo
-
-[Watch Dashboard Walkthrough](https://youtu.be/xYpaMtdytAg)
+<a href="https://youtu.be/xYpaMtdytAg" target="_blank">
+    ▶ Watch Demo
+</a>
