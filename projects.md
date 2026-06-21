@@ -5,16 +5,11 @@
 
 # 💼 Projects
 
-Welcome to my project portfolio. Each project highlights a real business problem, the solution implemented, and the measurable impact delivered.
+Welcome to my project portfolio. Each project highlights a **real business problem**, the solution implemented, and the measurable impact delivered.
 
 ---
 
 ## 🤖 Automated Invoice Processing
-
-<p align="center">
-  <img src="assets/images/invoice-automation.png" width="800" alt="Invoice Automation">
-</p>
-
 ### Business Challenge
 
 The client manually downloaded invoices from Paycom, processed them, and uploaded them back into the system. The process took approximately **2–3 hours** every day.
@@ -22,7 +17,6 @@ The client manually downloaded invoices from Paycom, processed them, and uploade
 ### Solution
 
 Designed an end-to-end automation workflow that:
-
 * Downloaded invoices automatically
 * Processed the required files
 * Uploaded invoices back into the business system
@@ -36,12 +30,6 @@ Designed an end-to-end automation workflow that:
 | Manual Work    | Reduced by over 90%           |
 | Accuracy       | Improved                      |
 | Business Value | Faster invoice processing     |
-
-### 📷 Screenshots
-
-| Dashboard                                | Workflow                                |
-| ---------------------------------------- | --------------------------------------- |
-| ![](assets/images/invoice-dashboard.png) | ![](assets/images/invoice-workflow.png) |
 
 ### 🎥 Video Demonstration
 
@@ -63,18 +51,11 @@ The client required detailed visibility into operational costs for better financ
 
 Developed an executive dashboard featuring:
 
-* Cost Analysis
-* KPI Monitoring
-* Trend Analysis
-* Interactive Filtering
+* Cost Analysis | * KPI Monitoring | * Trend Analysis | * Interactive Filtering
 
 ### Business Impact
 
-✅ Faster reporting
-
-✅ Better decision-making
-
-✅ Improved visibility into operational costs
+✅ Faster reporting   ✅ Better decision-making  ✅ Improved visibility into operational costs
 
 ### 📺 Watch Demo
 
